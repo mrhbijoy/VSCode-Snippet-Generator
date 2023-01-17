@@ -21,6 +21,13 @@ git clone https://github.com/mrhbijoy/VSCode-Snippet-Generator.git
 - Compile the program using your preferred C++ compiler.
 - Run the program and follow the prompts to enter the snippet name, prefix, code and description.
 
+![Snippet Input](https://github.com/mrhbijoy/VSCode-Snippet-Generator/blob/7d5ec7bb9169413e32a74fc21cae41a614f53db4/images/1.png.png)
+
+![Snippet Input](https://github.com/mrhbijoy/VSCode-Snippet-Generator/blob/7d5ec7bb9169413e32a74fc21cae41a614f53db4/images/2.png.png)
+
+
+
+
 ## Built With
 
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B) - The programming language used
